@@ -7,16 +7,16 @@ Conducted by [Venkatesh Rajamanickam](https://twitter.com/venkatrajam), [Rasagy 
 
 ###Quick Links for downloading:
 ####Slides
-1. [Introduction: Philosophy and History (PDF)](https://github.com/rasagy/ethics-in-design/raw/master/Slides/01_Introduction_Philosophy%20and%20History.pdf)
-2. [Behavioural Design (PDF)](https://github.com/rasagy/ethics-in-design/raw/master/Slides/02_Behavioural%20Design.pdf)
-3. [Design Patterns (PDF)](https://github.com/rasagy/ethics-in-design/raw/master/Slides/03_Design%20Patterns.pdf)
+1. [Introduction: Philosophy and History (PDF)](https://github.com/info-design-lab/ethics-in-design/raw/master/Slides/01_Introduction_Philosophy%20and%20History.pdf)
+2. [Behavioural Design (PDF)](https://github.com/info-design-lab/ethics-in-design/raw/master/Slides/02_Behavioural%20Design.pdf)
+3. [Design Patterns (PDF)](https://github.com/info-design-lab/ethics-in-design/raw/master/Slides/03_Design%20Patterns.pdf)
 
 ####Photos Archive
-* [View all photos](https://github.com/rasagy/ethics-in-design/tree/master/Photos#photos)
-* Or [Download zip archive](https://github.com/rasagy/ethics-in-design/raw/master/Photos/Ethics-Workshop-Photos.zip) (_10 Photos, 3.8 MB_)
+* [View all photos](https://github.com/info-design-lab/ethics-in-design/tree/master/Photos#photos)
+* Or [Download zip archive](https://github.com/info-design-lab/ethics-in-design/raw/master/Photos/Ethics-Workshop-Photos.zip) (_10 Photos, 3.8 MB_)
 
 ####References
-* View complete [list of references](https://github.com/rasagy/ethics-in-design/tree/master/References#references) (links, excerpts, papers, books)
+* View complete [list of references](https://github.com/info-design-lab/ethics-in-design/tree/master/References#references) (links, excerpts, papers, books)
 
 -----------------------
 For any queries, feel free to reach out to [**Venkatesh Rajamanickam**](mailto:venkatra@iitb.ac.in)
